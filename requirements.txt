@@ -7,7 +7,7 @@ matplotlib>=3.3
 numpy>=1.22.2
 opencv-python>=4.1.1
 Pillow>=10.0.1
-psutil  # system resources
+psutil~=5.9.7
 PyYAML>=5.3.1
 requests>=2.23.0
 scipy>=1.4.1
@@ -47,3 +47,5 @@ setuptools>=65.5.1 # Snyk vulnerability fix
 # mss  # screenshots
 # albumentations>=1.0.3
 # pycocotools>=2.0.6  # COCO mAP
+
+PyQt5~=5.15.9
