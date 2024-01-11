@@ -15,86 +15,86 @@ test: test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.
 
 # Classes
 names:
-  0: person
-  1: bicycle
-  2: car
-  3: motorcycle
-  4: airplane
-  5: bus
-  6: train
-  7: truck
-  8: boat
-  9: traffic light
-  10: fire hydrant
-  11: stop sign
-  12: parking meter
-  13: bench
-  14: bird
-  15: cat
-  16: dog
-  17: horse
-  18: sheep
-  19: cow
-  20: elephant
-  21: bear
-  22: zebra
-  23: giraffe
-  24: backpack
-  25: umbrella
-  26: handbag
-  27: tie
-  28: suitcase
-  29: frisbee
-  30: skis
-  31: snowboard
-  32: sports ball
-  33: kite
-  34: baseball bat
-  35: baseball glove
-  36: skateboard
-  37: surfboard
-  38: tennis racket
-  39: bottle
-  40: wine glass
-  41: cup
-  42: fork
-  43: knife
-  44: spoon
-  45: bowl
-  46: banana
-  47: apple
-  48: sandwich
-  49: orange
-  50: broccoli
-  51: carrot
-  52: hot dog
-  53: pizza
-  54: donut
-  55: cake
-  56: chair
-  57: couch
-  58: potted plant
-  59: bed
-  60: dining table
-  61: toilet
-  62: tv
-  63: laptop
-  64: mouse
-  65: remote
-  66: keyboard
-  67: cell phone
-  68: microwave
-  69: oven
-  70: toaster
-  71: sink
-  72: refrigerator
-  73: book
-  74: clock
-  75: vase
-  76: scissors
-  77: teddy bear
-  78: hair drier
-  79: toothbrush
+  0: 人
+  1: 自行车
+  2: 汽车
+  3: 摩托车
+  4: 飞机
+  5: 公交车
+  6: 火车
+  7: 卡车
+  8: 船
+  9: 交通信号灯
+  10: 消防栓
+  11: 停止标志
+  12: 停车计时器
+  13: 长凳
+  14: 鸟
+  15: 猫
+  16: 狗
+  17: 马
+  18: 绵羊
+  19: 牛
+  20: 大象
+  21: 熊
+  22: 斑马
+  23: 长颈鹿
+  24: 背包
+  25: 雨伞
+  26: 手提包
+  27: 领带
+  28: 手提箱
+  29: 飞盘
+  30: 滑雪板
+  31: 滑雪板
+  32: 运动球
+  33: 风筝
+  34: 棒球棒
+  35: 棒球手套
+  36: 滑板
+  37: 冲浪板
+  38: 网球拍
+  39: 瓶子
+  40: 酒杯
+  41: 杯子
+  42: 叉子
+  43: 刀
+  44: 勺子
+  45: 碗
+  46: 香蕉
+  47: 苹果
+  48: 三明治
+  49: 橙子
+  50: 西兰花
+  51: 胡萝卜
+  52: 热狗
+  53: 比萨饼
+  54: 甜甜圈
+  55: 蛋糕
+  56: 椅子
+  57: 沙发
+  58: 盆栽植物
+  59: 床
+  60: 餐桌
+  61: 厕所
+  62: 电视
+  63: 笔记本电脑
+  64: 鼠标
+  65: 遥控器
+  66: 键盘
+  67: 手机
+  68: 微波炉
+  69: 烤箱
+  70: 烤面包机
+  71: 水槽
+  72: 冰箱
+  73: 书
+  74: 时钟
+  75: 花瓶
+  76: 剪刀
+  77: 泰迪熊
+  78: 吹风机
+  79: 牙刷
 
 
 # Download script/URL (optional)
