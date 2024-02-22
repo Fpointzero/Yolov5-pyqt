@@ -168,7 +168,7 @@ def camera_detect():
     # 打开摄像头
     # model = torch.hub.load(".", 'custom', path=model_path, source='local')
     # 用网络摄像头所以是1，本地的摄像头用0
-    video_capture = cv2.VideoCapture(1)
+    video_capture = cv2.VideoCapture(camera_no)
 
     while True:
         # 逐帧捕获视频
@@ -221,5 +221,7 @@ if __name__ == "__main__":
     # 加载模型
     model = torch.hub.load(".", 'custom', path=model_path, source='local')
 
+    # 设置摄像头
+    camera_no = 1
     # windows
     main()
